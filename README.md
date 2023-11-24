@@ -39,3 +39,6 @@ The "[Call Centre Dashboard](https://github.com/OLUJUWON-OMOTOBA/Project-4/blob/
 
 
 The "Call Centre Dashboard" Power BI project, now emphasizing these new components, serves as a powerful tool for real-time decision-making, enabling call center managers to identify trends, address issues promptly, and enhance overall efficiency and customer satisfaction.
+
+![image](https://github.com/OLUJUWON-OMOTOBA/Project-4/assets/134015058/5cb62c78-7e61-4302-b57a-5fc7e48e76a1)
+
